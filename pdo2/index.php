@@ -3,8 +3,8 @@
 <?php
 $host = 'localhost';
 $user = 'root';
-$password = '123456';
-$dbname = 'pdoposts';
+$password = '';
+$dbname = '';
 
 // Set DSN
 $dsn = 'mysql:host=' . $host . ';dbname=; . $dbname;
